@@ -1,0 +1,12 @@
+.Comment-user {
+	margin: 10px 0;
+}
+
+.Comment-user-author {
+	color: blue;
+	padding-right: 10px;
+}
+
+.Comment-user-date {
+	color: rgb(114, 114, 114);
+}

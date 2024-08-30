@@ -1,0 +1,53 @@
+{
+	"comments": [
+		{
+			"id": 1,
+			"parent_id": null,
+			"author": "Andrey"	,
+			"commented_at": "2024-08-09T18:31",
+			"message": "test_message1"
+		},
+		{
+			"id": 2,
+			"parent_id": null,
+			"author": "Andrey"	,
+			"commented_at": "2024-08-09T18:40",
+			"message": "test_message2"
+		},
+		{
+			"id": 3,
+			"parent_id": null,
+			"author": "Andrey"	,
+			"commented_at": "2024-08-09T18:30",
+			"message": "test_message3"
+		},
+		{
+			"id": 30,
+			"parent_id": 10,
+			"author": "Ruslan"	,
+			"commented_at": "2024-08-09T18:50",
+			"message": "test_answer2"
+		},
+		{
+			"id": 10,
+			"parent_id": 1,
+			"author": "Ruslan"	,
+			"commented_at": "2024-08-09T18:35",
+			"message": "test_answer1"
+		},
+		{
+			"id": 20,
+			"parent_id": 3,
+			"author": "Ruslan"	,
+			"commented_at": "2024-08-09T18:45",
+			"message": "test_answer2"
+		},
+		{
+			"id": 40,
+			"parent_id": 10,
+			"author": "Ruslan"	,
+			"commented_at": "2024-08-09T18:45",
+			"message": "test_answer2"
+		}
+	]
+}
